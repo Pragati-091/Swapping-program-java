@@ -1,5 +1,5 @@
 // Swapping of two numbers without using third varialbe:
-public class swapwithoutthirdvariable {
+public class SwapWithoutThirdVariable {
     public static void main(String arg[]){
         // initialising and declaring variables:
         int a=40;
